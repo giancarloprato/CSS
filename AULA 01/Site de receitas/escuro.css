@@ -1,0 +1,28 @@
+body{
+    background-color: #281146;
+opacity: 1;
+background-image: radial-gradient(#916be0 2px, #281146 2px);
+background-size: 40px 40px;
+color: plum;
+}
+
+img{
+    border-radius: 30px;
+}
+
+a{
+    position: absolute;
+    right: 20px;
+    cursor: pointer; 
+}
+
+a{
+    color:  plum;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:  white;
+    transition: 0.3s all;
+}

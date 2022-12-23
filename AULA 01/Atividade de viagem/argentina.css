@@ -1,0 +1,33 @@
+body{
+    background-color: #00b78b;
+    opacity: 1;
+    background: linear-gradient(135deg, #0495b755 25%, transparent 25%) -40px 0/ 80px 80px, linear-gradient(225deg, #0495b7 25%, transparent 25%) -40px 0/ 80px 80px, linear-gradient(315deg, #0495b755 25%, transparent 25%) 0px 0/ 80px 80px, linear-gradient(45deg, #0495b7 25%, #00b78b 25%) 0px 0/ 80px 80px;
+}
+
+footer {
+    
+    position: absolute;
+    left: 0;
+    bottom: 100;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+
+a{
+    display: flex;
+    cursor: pointer;  
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:  white;
+    transition: 0.3s all;
+}
+
+img{
+     border-radius: 50px;
+}
